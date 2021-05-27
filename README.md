@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 
 [<img height="30" style="border-radius: 30px;" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />]
-[<img height="30" src = "https://img.shields.io/badge/YouTube-Follow-red">]
+[<img height="30" src = "https://img.shields.io/badge/YouTube-Follow-red">](https://www.youtube.com/channel/UC5od0dU0Wl1uyL-QJbq8tDg)
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]
