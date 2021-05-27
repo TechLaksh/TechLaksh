@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![TechLaskh-cover-img](https://github.com/TechLaksh/TechLaksh/blob/main/cover-main.png) 
-<!-- 
-[<img height="30" style="border-radius: 30px;" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />] -->
+
+[<img height="30" width="60" style="border-radius: 30px;" src="https://github.com/TechLaksh/TechLaksh/blob/main/580b57fcd9996e24bc43c521.png" />]
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">](https://www.youtube.com/channel/UC5od0dU0Wl1uyL-QJbq8tDg)
 <!-- [<img src="https://camo.githubusercontent.com/b091cb88e26295fdc73b1f1f91d812216757930cb4d60f7951a07deff2a53fd5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f267374796c653d666c61742d737175617265266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&amp;style=flat-square&amp;logo=instagram&amp;logoColor=white" style="max-width:100%;">](https://www.instagram.com/tech_laksh/)
  -->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TechLaksh&show_icons=true&theme=gruvbox"> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TechLaksh&show_icons=true&theme=gruvbox"> </p> 
