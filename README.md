@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![TechLaskh-cover-img](https://github.com/TechLaksh/TechLaksh/blob/main/cover-main.png) 
 <!-- 
 [<img height="30" style="border-radius: 30px;" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />] -->
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">](https://www.youtube.com/channel/UC5od0dU0Wl1uyL-QJbq8tDg)
